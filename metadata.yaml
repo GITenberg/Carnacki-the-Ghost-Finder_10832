@@ -1,0 +1,37 @@
+_repo: Carnacki-the-Ghost-Finder_10832
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hodgson, William Hope
+    birthdate: 1877
+    deathdate: 1918
+    gutenberg_agent_id: '3260'
+    url: http://www.gutenberg.org/2009/agents/3260
+    wikipedia: http://en.wikipedia.org/wiki/William_Hope_Hodgson
+description: "Carnacki, the Ghost-Finder is a collection of occult detective short\
+  \ stories by author William Hope Hodgson. It was first published in 1913 by the\
+  \ English publisher Eveleigh Nash. In 1947, a new edition of 3,050 copies was published\
+  \ by Mycroft & Moran and included three additional stories. The Mycroft & Moran\
+  \ version is listed as No. 53 in Queen's Quorum: A History of the Detective-Crime\
+  \ Short Story As Revealed by the 100 Most Important Books Published in this Field\
+  \ Since 1845 by Ellery Queen.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10832'
+  wikidata: Q5043764
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales, English'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The gateway of the monster -- The house among the laurels -- The
+  whistling room -- The horse of the invisible -- The searcher of the end house --
+  The thing invisible.
+title: Carnacki, the Ghost Finder
+url: http://www.gutenberg.org/ebooks/10832
+wikipedia:
+- https://en.wikipedia.org/wiki/Carnacki,_the_Ghost-Finder
