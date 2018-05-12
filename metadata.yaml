@@ -1,5 +1,8 @@
 _repo: Carnacki-the-Ghost-Finder_10832
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hodgson, William Hope
@@ -15,6 +18,8 @@ description: "Carnacki, the Ghost-Finder is a collection of occult detective sho
   \ version is listed as No. 53 in Queen's Quorum: A History of the Detective-Crime\
   \ Short Story As Revealed by the 100 Most Important Books Published in this Field\
   \ Since 1845 by Ellery Queen.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10832#Carnacki-the-Ghost-Finder
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
